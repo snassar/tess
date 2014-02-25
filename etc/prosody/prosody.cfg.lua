@@ -97,10 +97,10 @@ pidfile = "/var/run/prosody/prosody.pid";
 
 -- These are the SSL/TLS-related settings. If you don't want
 -- to use SSL/TLS, you may comment or remove this
-ssl = {
-        key = "/etc/prosody/certs/localhost.key";
-        certificate = "/etc/prosody/certs/localhost.cert";
-}
+--ssl = {
+--        key = "/etc/prosody/certs/localhost.key";
+--        certificate = "/etc/prosody/certs/localhost.cert";
+--}
 
 -- Only allow encrypted streams? Encryption is already used when
 -- available. These options will cause Prosody to deny connections that
