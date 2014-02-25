@@ -125,7 +125,7 @@ authentication = "internal_plain"
 -- through modules. An "sql" backend is included by default, but requires
 -- additional dependencies. See http://prosody.im/doc/storage for more info.
 
---storage = "sql" -- Default is "internal" (Debian: "sql" requires one of the
+storage = "sql" -- Default is "internal" (Debian: "sql" requires one of the
 -- lua-dbi-sqlite3, lua-dbi-mysql or lua-dbi-postgresql packages to work)
 
 -- For the "sql" backend, you can uncomment *one* of the below to configure:
