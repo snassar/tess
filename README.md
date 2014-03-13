@@ -1,4 +1,4 @@
-# TESS: Training Environment Server System
+# TESS: Training Environment Server
 
 TESS serves as a simple local network to allow a trainer to work with services such as email, Jabber, a web server, in places where the internet is not functioning or electricity is weak.
 
