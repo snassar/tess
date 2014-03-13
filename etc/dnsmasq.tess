@@ -125,4 +125,4 @@ no-dhcp-interface=wlan0
 # 2) Sets the "domain" DHCP option thereby potentially setting the
 #    domain of all systems configured by DHCP
 # 3) Provides the domain part for "expand-hosts"
-domain=tess.local
+domain=tess.site
